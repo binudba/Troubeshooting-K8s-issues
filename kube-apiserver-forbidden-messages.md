@@ -1,7 +1,8 @@
 
-K8s ver 1.5.x, 1.6.x
+### K8s ver 1.5.x, 1.6.x
 
-Kube-apiserver curl commands faling with following messages. 
+#### Kube-apiserver curl commands failing with following messages. 
+
 ```
 curl https://localhost:6443/apis -k
 {
